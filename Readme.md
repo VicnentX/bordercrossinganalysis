@@ -31,3 +31,5 @@ assume m = # of input line
 Total time complexity = max(O(m) , n * logn)
 
 Total space complexity = O(list size) = O(n)
+
+https://www.dropbox.com/s/pbriwcovvk7s12u/Screenshot%202019-10-29%2023.59.21.png?dl=0
